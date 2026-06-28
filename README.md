@@ -16,7 +16,8 @@
 
 ---
 
-![Guía de defensa: inyección SQL en e-commerce — infografía completa](./infografia-sql-injection.png)
+![Guía de defensa: inyección SQL en e-commerce — infografía completa]<img width="2800" height="2724" alt="infografia-sql-injection" src="https://github.com/user-attachments/assets/340ec9fb-2661-4c35-9d7b-1906b8db1868" />
+
 
 ## ¿Qué es la inyección SQL?
 
